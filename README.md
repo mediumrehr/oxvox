@@ -8,11 +8,17 @@ The Ox Vox is a badge add-on created for the DEF CON 25 503 party and BSides PDX
 
 Connecting the Ox Vox requires removing the joysticks from the badge. The pinouts are different for the DC25 Badge vs the BSides badge, so a few defines need to be changed depending on which badge you are modifying. Each joysticks uses five GPIOs, which allows for eight button inputs (a full octave), audio out, and an amplifier enable (see [Addition](#additions)).
 
-Below are two diagrams that show how to connect the Ox Vox to the badge depending on which badge you're moddifying.
+Below shows how to connect the Ox Vox depending on which badge you're modifying.
+
+![](oxvox_pins.png)
 
 #### DEF CON 25 503 Party Badge
 
+![](dc25_pinout.png)
+
 #### BSides PDX Badge
+
+![](bsides_pinout.png)
 
 ### Programming
 
