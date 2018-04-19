@@ -77,8 +77,8 @@ extern "C" {
 #define BUTTON_3            4
 #define BUTTON_4            3
 #define BUTTON_5            7
-#define BUTTON_6            11
-#define BUTTON_7            13
+#define BUTTON_6            13
+#define BUTTON_7            11
 #define BUTTON_8            12
 #define AUDIO_OUT_PIN       8
 #define AUDIO_ENABLE_PIN    6
@@ -88,9 +88,10 @@ extern "C" {
 #define BUTTON_2            6
 #define BUTTON_3            5
 #define BUTTON_4            4
-#define BUTTON_5            7
-#define BUTTON_6            12
-#define BUTTON_7            13
+#define BUTTON_5            13
+#define BUTTON_6            7
+#define BUTTON_7            12
+#define BUTTON_8            11
 #define AUDIO_OUT_PIN       8
 #define AUDIO_ENABLE_PIN    3
 */
